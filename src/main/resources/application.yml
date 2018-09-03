@@ -1,0 +1,17 @@
+guru:
+  user: Victor
+  password: 123456233
+  url: myconnection.guru
+
+  jms:
+    user: Ursula YAML
+    password: 111000
+    url: othersource.net
+
+---
+spring:
+  profiles: de
+
+guru:
+  jms:
+    user: Preuss YAML

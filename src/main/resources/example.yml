@@ -1,0 +1,31 @@
+# this is a comment!
+
+name: Victor
+
+names: #comment
+  - Victor
+  - Ursula
+  - Viviani
+  - Caetano
+
+pound_sign: "#"
+
+book:
+  author: Jon Hard
+  publisher: Atlas
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, False
+
+my_quote: |
+  my content whit a bunch of words
+  now I can write evrething I need
+
+another_paragraph: >
+  Too much words to write only in one line,
+  so I've decided to write more than one.
